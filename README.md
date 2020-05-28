@@ -1,1 +1,1 @@
-# https://liza.zaitseva.github.io/
+# liza.zaitseva.github.io
